@@ -1,0 +1,62 @@
+import {StyleSheet} from 'react-native'
+
+const styles = StyleSheet.create({
+    main:{
+        height:'100%',
+        backgroundColor:'#161718'
+    },
+    header:{
+        padding:21
+    },
+    heading:{
+        fontSize:32,
+        color:'#4cd137',
+        fontWeight:'bold'
+    },
+    category:{
+        paddingHorizontal:21,
+        flexDirection:'row',
+    },
+    categorySuggestion:{
+        height:30,
+        paddingHorizontal:12,
+        borderWidth:0.8,
+        padding:5,
+        borderColor:'#fff',
+        borderRadius:10,
+        marginLeft:10
+    },
+    selectedCaetgorySuggestion:{
+        height:30,
+        paddingHorizontal:12,
+        borderWidth:0.8,
+        padding:5,
+        borderColor:'#4cd137',
+        borderRadius:10,
+        marginLeft:10,
+        fontWeight:'bold',
+        color:'#4cd137'
+    },
+    gallery:{
+        paddingVertical:9,
+        paddingHorizontal:21,
+    },
+    galleryImage:{
+        width:'52%',
+        height:150
+    },
+    modalView:{
+        backgroundColor:'rgba(0,0,0,0.9)',
+        height:'100%',
+        width:'100%',
+        justifyContent:'center',
+        alignItems:'center',
+    },
+    options:{
+        flexDirection:'row',
+        justifyContent:'space-between',
+        marginTop:21
+    }
+});
+
+export default styles;

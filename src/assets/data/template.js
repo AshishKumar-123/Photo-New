@@ -1,0 +1,22 @@
+export default [
+    {
+        key:1,
+        source:'https://miro.medium.com/max/1400/1*S3mUc2xDJbRDtekAR_tUDA.jpeg'
+    },
+    {
+        key:2,
+        source:'https://c0.wallpaperflare.com/preview/329/929/149/cars-on-road-surrounded-by-building-during-nighttime.jpg'
+    },
+    {
+        key:3,
+        source:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAnG9-D-Ttdty2e2IMHHEy-J_grBsgaUJESw&usqp=CAU'
+    },
+    {
+        key:4,
+        source:'https://i.pinimg.com/550x/85/a5/a8/85a5a866fdd31a63321103ee6acba6a3.jpg'
+    },
+    {
+        key:5,
+        source:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCfFe_QJuVDGiKZGo9IEIlavFbPwbk8bE9Ww&usqp=CAU'
+    }
+]
